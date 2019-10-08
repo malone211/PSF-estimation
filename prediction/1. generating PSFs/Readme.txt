@@ -1,0 +1,2 @@
+1.Generation codes should be run on matlab platform (We recommend Matlab R2016b).
+2.2.After the generation codes are run, a kernel_blur.mat file is generated, which will be used to convolve with clear images to generate blurry images later.
