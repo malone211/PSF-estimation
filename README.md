@@ -23,10 +23,10 @@ In this experiment, we train the networks using 181 fixed PSFs and the correspon
 
 **Table 1, The RMSE Values of the Three Methods in the Identification Experiment**
 
-###3.2 PSF Prediction
+### 3.2 PSF Prediction
 In this experiment, we train the networks as in the PSF identification experiment above. The main difference is that we do not specify PSF parameters but randomly sample a range of parameter values during the generation of PSFs.
 
-####3.2.1 Simulated Images
+#### 3.2.1 Simulated Images
 First, we test the well-trained networks using the simulated test data set. We perform comparison experiments similar to those in the identification experiment by sampling 100 images from the common test data set and pure test data and then processing the samples with the proposed method, RL-AIBD and ML-IBD. The RMSEs of the three methods are shown in Table 2. The proposed method yields the best results, as in the identification experiment.
 
 |  |**RL-AIBD**|**ML-IBD**|**Propose method**|
