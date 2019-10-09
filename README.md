@@ -14,26 +14,10 @@ For comparison, we sample 100 images from the test data set and process them usi
 <img src="images/Figure1.png" width="100%"/>    
 Figure 1. Examples of PSF estimation results. (a) The test image, (b) the ground truth, (c) RL-AIBD method, (d) ML-IBD method, (e) proposed method, (f) residual error of (c), (g) residual error of (d), and (h) residual error of (e).
 <br><br>
-<table>
-  <tr>
-    <td><td>
-    <td>RL-AIBD<td>
-    <td>ML-IBD<td>
-    <td>Proposed method<td>
-  </tr>
-  <tr>
-    <td>Test data<td>
-    <td>0.00095529<td>
-    <td>0.00282314<td>
-    <td>0.00007723<td>
-  </tr>
-  <tr>
-    <td>Pure test data<td>
-    <td>0.00105331<td>
-    <td>0.00271948<td>
-    <td>0.00007817<td>
-  </tr>
-</table>
+|左对齐|居中对齐|右对齐|
+|:-    |:------:|-:|
+|左对齐列|居中对齐列|右对齐列|
+|1|2|3|
 
 
 
