@@ -11,10 +11,10 @@ We tested the proposed PSF estimation framework on the Keck AO systems (Drummond
 
 ### 3.1 PSF Identifications
 For comparison, we sample 100 images from the test data set and process them using RL-AIBD and ML-IBD. The average RMSE of the three methods are shown in Table 1, and some examples of PSF estimation results are shown in Figure 1. The results indicate that among the three methods, the proposed method achieves the lowest error. Moreover, the structure of the PSFs estimated with our proposed method matches well with the ground truth. Table 2 also gives the results of the three methods for the pure test data. The proposed method again yields the lowest RMSE. Moreover, the RMSE of the pure test data is similar to the RMSE of the common test data, which illustrates that the trained networks have strong generalization power since none of the cognate information about the pure test data is used in the training stage.
-<img src="images/Figure1-a.png" height="200px" width="200px"/> <img src="images/Figure1-b.png" height="200px" width="200px"/>     
-<img src="images/Figure1-c.png" height="200px" width="200px"/> <img src="images/Figure1-d.png" height="200px" width="200px"/>
-<img src="images/Figure1-e.png" height="200px" width="200px"/> <img src="images/Figure1-f.png" height="200px" width="200px"/>
-<img src="images/Figure1-g.png" height="200px" width="200px"/> <img src="images/Figure1-h.png" height="200px" width="200px"/>
+<img src="images/Figure1-a.png" height="200px" width="200px"/><img src="images/Figure1-b.png" height="200px" width="200px"/>     
+<img src="images/Figure1-c.png" height="200px" width="200px"/><img src="images/Figure1-d.png" height="200px" width="200px"/>
+<img src="images/Figure1-e.png" height="200px" width="200px"/><img src="images/Figure1-f.png" height="200px" width="200px"/>
+<img src="images/Figure1-g.png" height="200px" width="200px"/><img src="images/Figure1-h.png" height="200px" width="200px"/>
 
 
 
