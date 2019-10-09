@@ -1,3 +1,17 @@
+## 0. Citation
+
+If you find our code helpful in your research or work please cite our paper.
+
+```
+@article{PSF estimation for adaptive optics imaging,
+  title = {PSF estimation for adaptive optics imaging: PSF estimation for adaptive optics imaging of astronomical extended objects},
+  author = {Ma Long, Yang Soubo, Ni Weiping, Xiao Feng, Yu Jun},
+  journal = {The Astrophysical Journal},
+  year = 2019
+}
+```
+**The paper has been submitted to The Astrophysical Journal, and a link to the paper will be published in the post.**
+
 ## 1. Environmental preparation
 - python 3.6
 - NVIDIA GPU + CUDA CuDNN
