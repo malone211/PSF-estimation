@@ -18,9 +18,8 @@ Figure 1. Examples of PSF estimation results. (a) The test image, (b) the ground
 |  |RL-AIBD|ML-IBD|Propose method|
 |---|---|---|---
 |Test data|0.0009552|0.00282314|0.00007723|
-|---|---|---|---
 |Pure test data|0.00105331|0.00271948|0.00007817|
-|---|---|---|---
+
 
 
 
