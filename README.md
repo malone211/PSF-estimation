@@ -1,6 +1,6 @@
 ## 0. Citation
 
-If you find our code helpful in your research or work please cite our paper.
+**If you find our code helpful in your research or work please cite our paper.The paper has been submitted to The Astrophysical Journal, and a link to the paper will be published in the post.**
 
 ```
 @article{PSF estimation for adaptive optics imaging,
@@ -10,7 +10,6 @@ If you find our code helpful in your research or work please cite our paper.
   year = 2019
 }
 ```
-**The paper has been submitted to The Astrophysical Journal, and a link to the paper will be published in the post.**
 
 ## 1. Environmental preparation
 - python 3.6
