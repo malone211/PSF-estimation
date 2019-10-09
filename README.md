@@ -6,7 +6,7 @@
 @article{PSF estimation for adaptive optics imaging,
   title = {PSF estimation for adaptive optics imaging: PSF estimation for adaptive optics imaging of astronomical extended objects},
   author = {Ma Long, Yang Soubo, Ni Weiping, Xiao Feng, Yu Jun},
-  journal = {The Astrophysical Journal},
+  journal = {Astrophysical Journal},
   year = 2019
 }
 ```
