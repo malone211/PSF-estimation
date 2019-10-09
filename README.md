@@ -15,7 +15,7 @@ For comparison, we sample 100 images from the test data set and process them usi
 <img src="images/Figure1-c.png" height="200px" width="200px"/> <img src="images/Figure1-d.png" height="200px" width="200px"/>
 <img src="images/Figure1-e.png" height="200px" width="200px"/> <img src="images/Figure1-f.png" height="200px" width="200px"/>
 <img src="images/Figure1-g.png" height="200px" width="200px"/> <img src="images/Figure1-h.png" height="200px" width="200px"/>
-<br>Figure 1 Examples of PSF estimation results，  
+<br>Figure 1 Examples of PSF estimation results
 
 
 
