@@ -38,8 +38,8 @@ First, we test the well-trained networks using the simulated test data set. We p
 
 #### 3.2.2 Real Images
 Since the well-trained networks can predict PSFs that do not emerge in the training stage, we attempted to process the real images captured by the Keck AO systems. Since the groundtruth PSFs are unknown, we adopt the following test methods: the PSF estimation method is used to estimate the PSF of each blurred image, and then the PSF is used to deconvolute the blurred image. Finally, the performance of the estimation method is evaluated by the clarity of the resulting image.  We test the three methods with the AO images of Io and Saturn, as captured by the Keck AO system, and the results are shown in Figure 2. The clearest deconvolution results of all three images are obtained by the proposed method, which proves its effectiveness. 
-
-
+<img src="images/Figure2.png" width="100%"/>
+**Figure 2, Deconvolution results using PSFs with estimated different methods. The columns (from top to bottom) contain Io and Saturn, and the rows (from left to right) contain the original blurred images and the results obtained with the proposed method, RL-AIBD, and ML-IBD.**
 
 
 
